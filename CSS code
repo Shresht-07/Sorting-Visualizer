@@ -1,0 +1,16 @@
+#container{  /*#-> identifiying container by "id".*/
+    height: 200px;  /* max height of a bar */
+    display: flex; /*To diplay bars on browser*/ 
+    align-items: flex-end; /*to make the bars alligned in downward.*/
+}
+body{ /*No identifier req when body tag comes*/
+    display: flex;
+    align-items: center;  
+    flex-direction: column; /*whole body is in a column form*/
+}
+
+.bar{
+    width: 10px;
+    background-color: black;
+    margin: 1px;
+}
