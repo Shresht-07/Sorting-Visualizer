@@ -1,2 +1,15 @@
-# Sorting-Visualizer
-Designed a web-based sorting algorithm simulator with visualizations of Insertion sort, Quicksort, Bubble sort, Selection Sort, and Merge sort including color-coded visualization, size, and speed control.
+# Sorting Visualization
+### This is a simple visualization project made using javascript 
+- Bubble Sort 
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+
+### This is built using HTML, CSS, JavaScript <br/>
+
+[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
+
+<img src="img/img1.png"> <br/>
+<img src="img/img2.png"> <br/>
+<img src="img/img3.png"> <br/>
